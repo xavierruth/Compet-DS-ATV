@@ -15,6 +15,9 @@ Adicionar descrição em breve...
 
 #### Sobre a base de dados
 
+A base tem por objetivo apresentar dados referentes ao percentual de docentes na Educação Infantil, Ensino Médio e EJA (Educação para Jovens e Adultos) por grupo de adequação da formação à disciplina que leciona. 
+
+Sendo assim, foi possível observar que... 
 
 #### Dicionário de dados
 
