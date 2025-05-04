@@ -1,4 +1,14 @@
-# Atividade de Data Science - Compet 2025
+# 📊 Atividade de Data Science - Compet 2025
+
+#### Índice
+
+<p align="center"> 
+    <a href="#sobre-a-atividade">Sobre a Atividade</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#análise-dos-dados">Análise dos Dados</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#como-usar">Como Usar</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#autora">Autora</a> &nbsp;&nbsp; 
+</p>
 
 ## Sobre a atividade
 
@@ -7,7 +17,7 @@ Adicionar descrição em breve...
 
 <br>
 
-## Análise de dados 
+## Análise dos dados 
 
 **Base de dados escolhida:** Adequação da formação docente (2024)
 
