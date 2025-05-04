@@ -37,6 +37,11 @@ Sendo assim, foi possível observar que...
 
 Adicionar descrição em breve...
 
+## Tecnologias Utilizadas
+
+- Pandas 
+- Python
+
 
 ## Autora
 
