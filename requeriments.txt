@@ -3,5 +3,3 @@ matplotlib
 requests
 openpyxl
 seaborn
-scipy
-scikit-learn
