@@ -12,8 +12,12 @@
 
 ## Sobre a atividade
 
-Adicionar descrição em breve...
-
+- Escolher um conjunto de dados disponível no portal do INEP; 
+- Utilizar as bibliotecas Python;
+- Aplicar técnicas de wrangling, selecionando atributos relevantes e realizando o tratamento de valores faltantes ou inconsistentes;
+- Interpretar de forma sucinta as saídas de info() e describe(); 
+- Usar operações de agregação como groupby;
+- Gerar visualizações, exportar o conjunto de dado tratado para o Power BI, para a criação de um dashboard.
 
 <br>
 
