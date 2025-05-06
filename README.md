@@ -35,9 +35,21 @@ Sendo assim, foi possível observar que...
 
 #### Dicionário de dados
 
-| **Variáveis** | **Descrição** |
-|---------------|---------------|
-|               |               |
+| **Variáveis** | **Descrição** | **Tipo** | 
+|---------------|---------------| --------------- |
+| GEO | Unidade Geográfica | Categórico |
+| LOC | Categoria | Categórico | 
+| DA | Dependência Administrativa | Categórico | 
+| EJAFUNG1 | EJA - Ensino Fundamental - Grupo 1 | Numérico | 
+| EJAFUNG2 | EJA - Ensino Fundamental - Grupo 2 | Numérico | 
+| EJAFUNG3 | EJA - Ensino Fundamental - Grupo 3 | Numérico | 
+| EJAFUNG4 | EJA - Ensino Fundamental - Grupo 4 | Numérico | 
+| EJAFUNG5 | EJA - Ensino Fundamental - Grupo 5 | Numérico | 
+| EJAMEDG1 | EJA - Ensino Médio - Grupo 1 | Numérico |
+| EJAMEDG2 | EJA - Ensino Médio - Grupo 2 | Numérico |
+| EJAMEDG3 | EJA - Ensino Médio - Grupo 3 | Numérico |
+| EJAMEDG4 | EJA - Ensino Médio - Grupo 4 | Numérico |
+| EJAMEDG5 | EJA - Ensino Médio - Grupo 5 | Numérico |
 
 
 #### Perguntas que feitas a essa base de dados: 
