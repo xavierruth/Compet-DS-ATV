@@ -5,7 +5,7 @@
 <p align="center"> 
     <a href="#sobre-a-atividade">Sobre a Atividade</a> &nbsp;&nbsp; | &nbsp;&nbsp;
     <a href="#análise-dos-dados">Análise dos Dados</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-    <a href="#como-usar">Como Usar</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#dashboard">Dashboard</a> &nbsp;&nbsp; | &nbsp;&nbsp; 
     <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> &nbsp;&nbsp; | &nbsp;&nbsp;
     <a href="#autora">Autora</a> &nbsp;&nbsp; 
 </p>
@@ -76,11 +76,28 @@ A análise dos dados foi orientada a algumas perguntas como:
 
 - Comparando as regiões do Brasil, qual apresenta maior desigualdade na adequação da formação docente para a EJA?
 
-## Como usar? 
+## Dashboard
 
-### Requisitos necessários
-
-Adicionar descrição em breve...
+<p align="center">
+    <p>Capa</p>
+    <img src="https://i.imgur.com/gWEo9L8.png">
+</p>
+<p align="center">
+    <p>Visão Geral</p>
+    <img src="https://i.imgur.com/4enjcvR.png">
+</p>
+<p align="center">
+    <p>Comparativo entre o Ensino Fundamental e Ensino Médio</p>
+    <img src="https://i.imgur.com/n8URzui.png">
+</p>
+<p align="center">
+    <p>Ensino Fundamental - EJA</p>
+    <img src="https://i.imgur.com/mBZyBXL.png">
+</p>
+<p align="center">
+    <p>Ensino Médio - EJA</p>
+    <img src="https://i.imgur.com/QB3KycE.png">
+</p>
 
 ## Tecnologias Utilizadas
 
