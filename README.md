@@ -31,7 +31,7 @@
 
 A base tem por objetivo apresentar dados referentes ao percentual de docentes na Educação Infantil, Ensino Médio e EJA (Educação para Jovens e Adultos) por grupo de adequação da formação à disciplina que leciona. 
 
-Sendo assim, foi possível observar que... 
+Sendo assim, foi possível observar que a formação docente adequada é mais experissiva nos Ensino Médio da EJA do que no Ensino Fundamental, além das redes federais se destacarem positivamente em relação as municipais e estaduais, onde se concentra mais docentes com formação inadequada ou fora de sua área de atuação. Foi interessante observar e fazer a análises, pois acreditei que o Ensino Médio EJA teria uma maior discrepância em relação ao Ensino Fundamental, refutando assim umas das minhas teses. Contudo a minha tese sobre a zona rural ser mais defasada em relação a zona urbana foi validada, destacando dores que permeiam a Educação de Jovens e Adultos no Brasil. 
 
 #### Dicionário de dados
 
@@ -54,8 +54,27 @@ Sendo assim, foi possível observar que...
 
 #### Perguntas que feitas a essa base de dados: 
 
-- 
-- 
+A análise dos dados foi orientada a algumas perguntas como: 
+
+- Em qual zona a EJA sofre uma maior discrepância entre a formação docente e a disciplina ensinada num total?
+
+- Analisando separadamente, qual zona apresenta maior discrepância na formação docente para a EJA do Ensino Fundamental? E para a EJA do Ensino Médio?
+
+- Em quais dependências admnistritativas há uma maior incidênica dessa discrepância em relação a EJA do Ensino Fundamental? E no Ensino Médio? 
+
+- Há alguma relação entre a unidade geográfica e a localização em realação a EJA do Ensino Fundamental?  E no Ensino Médio? 
+
+- Existe alguma correlação entre a unidade geográfica e a dependencia administrativa em relação à formação docente da EJA no Ensino Fundamental? E no Ensino Médio?
+
+- Ao fazer uma comparação entre o Ensino Fundamental EJA e Ensino Médio EJA, qual podemos observar que há uma maior dispariadade?
+
+- Qual região do Brasil apresenta a maior variação na formação dos docentes da EJA em termos de adequação (Grupos 1 a 5)?
+
+- Qual grupo de formação docente (1, 2, 3, 4 e 5) concentra um maior percentual desses docentes, considerando a zona geográfica?
+
+- Qual grupo de formação docente (Grupo 1, 2, 3, 4, 5) apresenta maior percentual de docentes na EJA, considerando a dependência administrativa?
+
+- Comparando as regiões do Brasil, qual apresenta maior desigualdade na adequação da formação docente para a EJA?
 
 ## Como usar? 
 
@@ -66,8 +85,8 @@ Adicionar descrição em breve...
 ## Tecnologias Utilizadas
 
 - Pandas 
+- Matplotlib
 - Python
-
 
 ## Autora
 
